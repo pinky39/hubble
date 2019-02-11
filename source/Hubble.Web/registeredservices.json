@@ -1,0 +1,22 @@
+{
+    "RegisteredServices": [
+        {
+            "Name": "apollo13",
+            "Url": "http://localhost:5000/mockups/apollo13/",
+            "Ping": "ping",
+            "Alerts": "alerts"
+        },
+        {
+            "Name": "spaceshuttle",
+            "Url": "http://localhost:5000/mockups/spaceshuttle/",
+            "Ping": "ping",
+            "Alerts": "alerts"
+        },
+        {
+            "Name": "opportunity",
+            "Url": "http://localhost:6000/mockups/opportunity/",
+            "Ping": "ping",
+            "Alerts": "alerts"
+        }
+    ]
+}
